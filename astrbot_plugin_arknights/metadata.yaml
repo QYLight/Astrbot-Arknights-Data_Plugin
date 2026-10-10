@@ -1,0 +1,6 @@
+name: astrbot_plugin_arknights
+display_name: 明日方舟活动监测
+desc: 从 BWIKI 同步明日方舟活动和卡池时间，并提供查询命令。
+version: 0.1.0
+author: LightBash
+repo: https://github.com/yourname/astrbot_plugin_arknights
